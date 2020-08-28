@@ -17,7 +17,8 @@ O Proffy é uma aplicação Web feita para auxiliar na conexão entre os alunos 
 
 ## Iniciar projeto
 
-`$ npm install ` `<id>`
+`$ npm install ` 
+`<id>`
 `$ npm start ` 
 
  
