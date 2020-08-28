@@ -15,3 +15,9 @@ O Proffy é uma aplicação Web feita para auxiliar na conexão entre os alunos 
  - axios
  - CORS
 
+## Iniciar projeto
+
+`$ npm install ` 
+`$ npm start ` 
+
+ 
